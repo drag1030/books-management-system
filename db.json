@@ -1,0 +1,29 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "courseId": "CS101",
+        "title": "Introduction to Computer Science",
+        "instructor": "Prof. Smith",
+        "department": "Computer Science",
+        "credits": 3
+      },
+      {
+        "id": 2,
+        "courseId": "ENG201",
+        "title": "English Literature",
+        "instructor": "Dr. Johnson",
+        "department": "English",
+        "credits": 4
+      },
+      {
+        "id": 3,
+        "courseId": "MATH301",
+        "title": "Advanced Calculus",
+        "instructor": "Dr. Brown",
+        "department": "Mathematics",
+        "credits": 5
+      }
+    ]
+  }
+  
